@@ -16,7 +16,7 @@
 
 ## 🎯 概述
 
-这是一个专业级的 Claude Code Skill，用于创建符合 Apple 人机界面指南的专业界面设计。包含以下知识：
+这是一个 Claude Code Skill，用于创建符合 Apple 人机界面指南的专业界面设计。包含以下知识：
 
 - **Liquid Glass 毛玻璃效果** (iOS 26 / macOS Tahoe 风格)
 - **SF Pro 字体系统**
@@ -51,11 +51,8 @@ cp -r apple-hig-designer .claude/skills/
 ## 🚀 使用方法
 
 安装后，当您进行以下操作时，Claude Code 会自动激活此 Skill：
-
-- 请求 "Apple 风格" 或 "iOS/macOS 风格" 的界面
-- 请求 "符合 HIG 规范" 的 UI 组件
-- 提及 "Liquid Glass" 或 "毛玻璃" 设计效果
-- 使用触发短语：
+-请告诉claude code，你要使用apple-hig-designer
+然后使用触发短语：
   - "设计一个苹果风格的..."
   - "创建一个符合 HIG 的..."
   - "iOS 风格的组件"
