@@ -18,7 +18,6 @@
 
 This apple-hig-designer enables you to design professional web and mobile interfaces that follow Apple's Human Interface Guidelines. It provides comprehensive knowledge about:
 
-- **Liquid Glass Effects** (iOS 26 / macOS Tahoe style)
 - **SF Pro Typography** system
 - **Apple System Colors** with light/dark mode support
 - **8pt Grid Spacing System**
