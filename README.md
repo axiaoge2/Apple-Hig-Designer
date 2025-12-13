@@ -52,6 +52,7 @@ cp -r apple-hig-designer .claude/skills/
 After installation, Claude Code will automatically activate this skill when you perform the following actions:
 
 Basic usage: Please tell Claude Code that you want to use apple-hig-designer.
+
 Example
 - "Design an Apple-style..."
 - "Create a HIG-compliant..."
