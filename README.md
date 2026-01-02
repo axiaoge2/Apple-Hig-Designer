@@ -82,6 +82,26 @@ apple-hig-designer/
     └── ui-patterns.md    # UI pattern documentation
 ```
 
+## 📸 Basic effect demonstration:
+
+
+
+<div align="center">
+
+Single page design
+Design a Mac-style chat page for web use.
+
+<!-- macOS Chat Page -->
+![macOS Chat](screenshots/macos-chat.png) 
+
+"Creating iOS Page Transition Animations"
+
+<!-- Page Transitions -->
+![Page Transitions](screenshots/page-transitions.gif) 
+
+</div>
+
+
 ## 🎨 Features
 
 | Feature | Description |
