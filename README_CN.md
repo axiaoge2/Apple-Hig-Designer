@@ -14,6 +14,30 @@
 
 ---
 
+## 📸 基础效果展示：
+
+
+<div align="center">
+
+单页面设计
+"设计一个Web端的Mac风格的聊天页面"
+
+<!-- macOS Chat Page -->
+![macOS Chat](screenshots/macos-chat.png) 
+
+“创建 iOS 页面转场动画”
+
+<!-- Page Transitions -->
+![Page Transitions](screenshots/page-transitions.gif) 
+
+</div>
+
+
+📸风格融合设计：
+“请运用您高超的苹果设计师技能，选择一个合适的框架，并开发一个完整的响应式前端项目，融入奢侈品牌的美学理念。”
+
+Vercle：https://fashion-editorial.vercel.app/
+
 ## 🎯 概述
 
 这是一个 Claude Code Skill，用于创建符合 Apple 人机界面指南的专业界面设计。包含以下知识：
@@ -79,29 +103,7 @@ apple-hig-designer/
     └── ui-patterns.md    # UI 模式文档
 ```
 
-## 📸 基础效果展示：
 
-
-<div align="center">
-
-单页面设计
-"设计一个Web端的Mac风格的聊天页面"
-
-<!-- macOS Chat Page -->
-![macOS Chat](screenshots/macos-chat.png) 
-
-“创建 iOS 页面转场动画”
-
-<!-- Page Transitions -->
-![Page Transitions](screenshots/page-transitions.gif) 
-
-</div>
-
-
-📸风格融合设计：
-“请运用您高超的苹果设计师技能，选择一个合适的框架，并开发一个完整的响应式前端项目，融入奢侈品牌的美学理念。”
-
-Vercle：https://fashion-editorial.vercel.app/
 
 ## 🎨 功能特性
 
