@@ -32,11 +32,14 @@
 
 </div>
 
-
+<div align="center">
 📸风格融合设计：
 “请运用您高超的苹果设计师技能，选择一个合适的框架，并开发一个完整的响应式前端项目，融入奢侈品牌的美学理念。”
 
 Vercle：https://fashion-editorial.vercel.app/
+<img width="2075" height="1206" alt="image" src="https://github.com/user-attachments/assets/605fa6b0-51a9-440d-b0b0-a3578988ecf3" />
+
+</div>
 
 ## 🎯 概述
 
