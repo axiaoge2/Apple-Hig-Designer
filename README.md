@@ -36,6 +36,7 @@ Design a Mac-style chat page for web use.
 
 <div align="center">
  📸Style fusion design: 
+ 
 "Please use your apple-hig-designer skills to choose a suitable framework and develop a complete responsive front-end project that incorporates a luxury brand aesthetic".
 
 Vercle: https://fashion-editorial.vercel.app/
