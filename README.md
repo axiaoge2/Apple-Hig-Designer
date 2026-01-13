@@ -21,15 +21,18 @@
 <div align="center">
 
 Single page design
-Design a Mac-style chat page for web use.
 
-<!-- macOS Chat Page -->
-![macOS Chat](screenshots/macos-chat.png) 
 
 "Creating iOS Page Transition Animations"
 
 <!-- Page Transitions -->
 ![Page Transitions](screenshots/page-transitions.gif) 
+
+"Design a Mac-style chat page for web use."
+<!-- macOS Chat Page -->
+![macOS Chat](screenshots/macos-chat.png) 
+
+
 
 </div>
 
@@ -37,7 +40,7 @@ Design a Mac-style chat page for web use.
 <div align="center">
  📸Style fusion design: 
  
-"Please use your apple-hig-designer skills to choose a suitable framework and develop a complete responsive front-end project that incorporates a luxury brand aesthetic".
+"Please use your apple-hig-designer skills to choose a suitable framework and develop a complete responsive front-end project that incorporates a luxury brand aesthetic."
 
 Vercle: https://fashion-editorial.vercel.app/
 <img width="2075" height="1206" alt="image" src="https://github.com/user-attachments/assets/605fa6b0-51a9-440d-b0b0-a3578988ecf3" />
