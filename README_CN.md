@@ -20,15 +20,15 @@
 <div align="center">
 
 单页面设计
-"设计一个Web端的Mac风格的聊天页面"
-
-<!-- macOS Chat Page -->
-![macOS Chat](screenshots/macos-chat.png) 
-
 “创建 iOS 页面转场动画”
 
 <!-- Page Transitions -->
 ![Page Transitions](screenshots/page-transitions.gif) 
+
+"设计一个Web端的Mac风格的聊天页面"
+
+<!-- macOS Chat Page -->
+![macOS Chat](screenshots/macos-chat.png) 
 
 </div>
 
