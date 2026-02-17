@@ -36,7 +36,7 @@
 📸风格融合设计：
 “请运用您高超的苹果设计师技能，选择一个合适的框架，并开发一个完整的响应式前端项目，融入奢侈品牌的美学理念。”
 
-Vercle：https://fashion-editorial.vercel.app/
+Vercel：https://fashion-editorial.vercel.app/
 <img width="2075" height="1206" alt="image" src="https://github.com/user-attachments/assets/605fa6b0-51a9-440d-b0b0-a3578988ecf3" />
 
 </div>
@@ -84,18 +84,18 @@ cp -r apple-hig-designer .claude/skills/
 - "创建一个符合 HIG 的..."
 - "iOS 风格的组件"
 
-进阶用法:使用apple-hig-desiner与其他风格进行融合，以app-hig-desiner设计为基础框架
+进阶用法:使用apple-hig-designer与其他风格进行融合，以apple-hig-designer设计为基础框架
 
 示例
--“使用apple-hig-desiner技能融合赛博朋克风格，帮我开发一个机器人展示页面？"
+-"使用apple-hig-designer技能融合赛博朋克风格，帮我开发一个机器人展示页面？"
 
--”使用apple-hig-desiner技能融合其他风格，开发一个博客主题的网站，你有什么推荐的风格吗？"
+-"使用apple-hig-designer技能融合其他风格，开发一个博客主题的网站，你有什么推荐的风格吗？"
  
 ## 📁 文件结构
 
 ```
 apple-hig-designer/
-├── Skill.md              # 主技能定义文件
+├── SKILL.md              # 主技能定义文件
 ├── REFERENCE.md          # 详细 HIG 参考文档
 ├── README.md             # 英文文档
 ├── README_CN.md          # 中文文档

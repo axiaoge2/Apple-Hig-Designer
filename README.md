@@ -42,7 +42,7 @@ Single page design
  
 "Please use your apple-hig-designer skills to choose a suitable framework and develop a complete responsive front-end project that incorporates a luxury brand aesthetic."
 
-Vercle: https://fashion-editorial.vercel.app/
+Vercel: https://fashion-editorial.vercel.app/
 <img width="2075" height="1206" alt="image" src="https://github.com/user-attachments/assets/605fa6b0-51a9-440d-b0b0-a3578988ecf3" />
 
 </div>
@@ -94,20 +94,20 @@ Example
 - "Create a HIG-compliant..."
 - "iOS-style components"
 
-Advanced usage: Integrate apple-hig-desiner with other styles, using apple-hig-desiner as the basic design framework.
+Advanced usage: Integrate apple-hig-designer with other styles, using apple-hig-designer as the basic design framework.
 
 
 Example
 
-"Using your apple-hig-desiner skills and a cyberpunk aesthetic, could you help me develop a robot showcase page?"
+"Using your apple-hig-designer skills and a cyberpunk aesthetic, could you help me develop a robot showcase page?"
 
-"Using apple-hig-desiner skills to blend other styles, how would you recommend a style for developing a blog-themed website?"
+"Using apple-hig-designer skills to blend other styles, how would you recommend a style for developing a blog-themed website?"
 
 ## 📁 File Structure
 
 ```
 apple-hig-designer/
-├── Skill.md              # Main skill definition
+├── SKILL.md              # Main skill definition
 ├── REFERENCE.md          # Detailed HIG reference documentation
 ├── README.md             # English documentation
 ├── README_CN.md          # Chinese documentation
